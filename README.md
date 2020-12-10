@@ -7,5 +7,5 @@ Submodule of repository <a href="https://github.com/LuisFernando1407/pidm">PIDM<
   - Open the <b>AppEntry.js</b> file
   - Delete the <b>import App...</b> and add the following code: <b>import App from '../../src/App'</b>
 
-  - App preview
+- App preview
 <img src='assets/image_of_project.jpeg' width='30%' height='30%'/>
